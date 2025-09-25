@@ -1,5 +1,5 @@
 ## ## Oleksandr Kozynets  - **Game collection**. [Посилання на відео](https://www.loom.com/share/df7de748630b4a97ad3d31e76833205d?sid=6e172ae7-6737-4d59-b45a-6d491f7bc2fd)
-**Github pages**. [pages]([https://www.loom.com/share/df7de748630b4a97ad3d31e76833205d?sid=6e172ae7-6737-4d59-b45a-6d491f7bc2fd](https://kozynetsoleksandr.github.io/final-project-js-ts/))
+**Github pages**:  [click me](https://kozynetsoleksandr.github.io/final-project-js-ts/)
 
 ```
 Game collection
