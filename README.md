@@ -1,3 +1,6 @@
+## ## Oleksandr Kozynets  - **Game collection**. [Посилання на відео](https://www.loom.com/share/df7de748630b4a97ad3d31e76833205d?sid=6e172ae7-6737-4d59-b45a-6d491f7bc2fd)
+
+```
 Game collection
 
 Implement classes on diagrams in JavaScript using ES6 syntax. 
@@ -27,3 +30,4 @@ Collection should have next methods:
 •        countList() – lets to calculate the count of games in collection;
 •        countBaseGames() – lets to calculate the count of Base Games in collection;
 •        countExpansions() – lets to calculate the count of Base Games in collection.
+```
