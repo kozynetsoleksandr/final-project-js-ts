@@ -30,7 +30,7 @@ export class Collection {
     }
 
     public countBaseGames(): number {
-        return this._gameList.filter(v => v instanceof BaseGame && !(v instanceof Expansion)).length;
+        return this._gameList.filter(v => v.constructor === BaseGame).length;
     }
 
     public countExpansions(): number {
